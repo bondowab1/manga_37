@@ -1,5 +1,7 @@
 # Hu Tao
 
+![Hu Tao](https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Character_Hu_Tao_Full_Wish.png)
+
 **Origin:** Genshin Impact  
 **Element:** Pyro  
 **Weapon:** Polearm  
